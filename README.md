@@ -12,7 +12,8 @@ Assignment 2: R code
 ## lines 37-41: code cmdscale () assigned to get a visual representation to analyze similarities or dissimilarities in data
 ## lines 52-54: code pdf () to save graph into files of pdf format
 ## line 56: par (mar= ) to setup margins of the plot
-## line 63-64: plot() to have static plot and include only name of points
+## line 63-64, 109: plot(), textplot() to have static plot and include only name of points
 ## line 66-67: text () for entering the names for the points/legends
 ## line 68: title () for legsnds in the plot
-## line 99: dev.off () to shut down the specified pdf plotting device.
+## lines after 68: many comments have repeated codes mentioned above
+## line 99: dev.off () to shut down the specified pdf plotting device
